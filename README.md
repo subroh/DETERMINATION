@@ -8,7 +8,7 @@
 https://lit-taiga-31758.herokuapp.com/index.php
 
 # テスト用アカウント
-ユーザー名:test_user
+ユーザー名:test_user<br>
 パスワード:test
 
 # 利用方法
