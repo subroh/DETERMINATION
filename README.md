@@ -4,9 +4,6 @@
 # アプリケーション概要
 自分で決断できない優柔不断な人の背中を押してくれるSNSです。
 
-# URL
-https://lit-taiga-31758.herokuapp.com/index.php
-
 # テスト用アカウント
 ユーザー名:test_user<br>
 パスワード:test
